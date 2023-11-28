@@ -11,9 +11,9 @@
 }
 
 #title {
-  font-size: 3rem;
-  margin-bottom: 0.2em;
+  font-size: 2rem;
   text-decoration: underline;
+  padding: 2% 10% 0%;
 }
 
 
@@ -36,14 +36,13 @@ img {
 }
 
 #headline {
-  margin: 50px 40px;
-  font-size: 2rem;
+  margin: 40px 40px;
+  font-size: 1.5rem;
 }
 
 .milestones {
   text-align: justify;
-  max-width: 700px;
-  margin: auto;
+  padding: 0% 10%;
 }
 
 li {
@@ -52,11 +51,12 @@ li {
 
 blockquote {
   font-style: italic;
-  padding: 40px;
+  padding: 30px;
 }
 
 h3 {
   font-size: 1rem;
+  padding: 0% 10% 2%;
 }
 
 a {
